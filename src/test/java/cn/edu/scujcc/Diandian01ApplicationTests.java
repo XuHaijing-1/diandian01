@@ -9,5 +9,6 @@ class Diandian01ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+	
+	//在GitHub仓库写一句注释用于测试
 }
